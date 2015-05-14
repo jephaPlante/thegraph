@@ -1,0 +1,266 @@
+Castiel	Angel
+Castiel	Antagonist
+Castiel	Ally
+Ruby	Antagonist
+Ruby	Demon
+Ruby	Ally
+Cain	Antagonist
+Cain	Demon
+Crowley	Antagonist
+Crowley	Demon
+Gadreel	Antagonist
+Gadreel	Angel
+Metatron	Antagonist
+Metatron	Angel
+Lucifer	Antagonist
+Lucifer	Archangel
+Gabriel	Antagonist
+Gabriel	Archangel
+Meg	Antagonist
+Meg	Demon
+Meg	Ghost
+Rowena	Human
+Rowena	Witch
+Rowena	Antagonist
+Alastair	Antagonist
+Alastair	Demon
+Azazel	Antagonist
+Azazel	Demon
+Lilith	Demon
+Lilith	Antagonist
+Ava Wilson	Human
+Ava Wilson	Azazel's Afflicted
+Ava Wilson	Antagonist
+Ronald Reznick	Antagonist
+Ronald Reznick	Human
+Ronald Reznick	Ghost
+Charlie Bradbury	Antagonist
+Charlie Bradbury	Hunter
+Charlie Bradbury	Ally
+Pestilence	Antagonist
+Eve	Antagonist
+Mary Worthington	Antagonist
+Uriel	Antagonist
+Abaddon	Antagonist
+Michael	Antagonist
+Jake Devins	Antagonist
+Charlie Bradbury	Human
+Pestilence	Four Horsemen
+Mary Worthington	Human
+Mary Worthington	Ghost
+Uriel	Angel
+Abaddon	Demon
+Michael	Archangel
+Jake Devins	Human
+Jake Devins	Police
+Alpha Vampire	Antagonist
+Anna	Antagonist
+Bartholomew	Antagonist
+Bela Talbot	Antagonist
+Chet	Antagonist
+Christian Campbell	Antagonist
+Cole Trenton	Antagonist
+Constance Welch	Antagonist
+Alpha Vampire	Vampire
+Alpha Vampire	Alpha
+Anna	Angel
+Anna	Graceless Angel
+Bartholomew	Angel
+Bela Talbot	Human
+Chet	Leviathan
+Christian Campbell	Human
+Christian Campbell	Hunter
+Christian Campbell	Demon
+Cole Trenton	Human
+Constance Welch	Ghost
+Constance Welch	Human
+Dick Roman	Leviathan
+Dick Roman	Antagonist
+Dr. Gaines	Leviathan
+Dr. Gaines	Antagonist
+Edgar	Leviathan
+Edgar	Antagonist
+Famine	Four Horsemen
+Famine	Antagonist
+Gordon Walker	Antagonist
+Jacob Karns	Antagonist
+Naomi	Antagonist
+Peter Sweeney	Antagonist
+Leshi	Antagonist
+Jake Talley	Antagonist
+Raphael	Antagonist
+Samuel Campbell	Antagonist
+Samuel Campbell	Ally
+Tessa	Antagonist
+Gordon Walker	Human
+Gordon Walker	Hunter
+Gordon Walker	Vampire
+Kate	Vampire
+Luther	Vampire
+Kate	Antagonist
+Luther	Antagonist
+Desmond	Vampire
+Desmond	Antagonist
+Jacob Karns	Human
+Jacob Karns	Ghost
+Naomi	Angel
+Peter Sweeney	Human
+Peter Sweeney	Ghost
+Leshi	Deities
+Mercury	Deities
+Mercury	Antagonist
+Kali	Deities
+Kali	Antagonist
+Ganesh	Deities
+Ganesh	Antagonist
+Odin	Deities
+Odin	Antagonist
+Eve	Deities
+Jake Talley	Human
+Jake Talley	Azazel's Afflicted
+Raphael	Archangel
+Samuel Campbell	Human
+Samuel Campbell	Hunter
+Tessa	Reaper
+Ajay	Reaper
+Ajay	Ally
+Leah Gideon	Antagonist	
+Zachariah	Angel
+Zachariah	Antagonist
+Victor Henriksen	Human
+Victor Henriksen	Ghost
+Victor Henriksen	Antagonist
+Victor Henriksen	Ally
+War	Four Horsemen
+War	Antagonist
+Castiel	Graceless Angel
+Cain	Ally
+Bobby Singer	Ally
+Sam Winchester	Ally
+Dean Winchester	Ally
+Jo Harvelle	Ally
+Jody Mills	Ally
+Kevin Tran	Ally
+Henry Winchester	Ally
+Jimmy Novak	Vessel
+Jimmy Novak	Human
+Bobby Singer	Ghost
+Bobby Singer	Hunter
+Bobby Singer	Human
+Sam Winchester	Human
+Dean Winchester	Human
+Sam Winchester	Hunter
+Dean Winchester	Hunter
+Sam Winchester	Vessel
+Adam Milligan	Human
+Adam Milligan	Hunter
+Adam Milligan	Vessel
+Dean Winchester	Vessel
+Sam Winchester	Azazel's Afflicted
+Dean Winchester	Vampire
+Dean Winchester	Demon
+Jo Harvelle	Human
+Jo Harvelle	Ghost
+Jo Harvelle	Hunter
+Jody Mills	Police
+Jody Mills	Human
+Kevin Tran	Prophet
+Kevin Tran	Ghost
+Kevin Tran	Human
+Henry Winchester	Human
+Gabriel	Ally
+Gadreel	Ally
+Meg	Ally
+Metatron	Ally
+Crowley	Ally
+Anna	Ally
+Tessa	Ally
+Ronald Reznick	Ally
+Jake Devins	Ally
+Mary Winchester	Ally
+John Winchester	Ally
+Linda Tran	Ally
+Eleanor Visyak	Ally
+Amy Pond	Ally
+Chuck Shurley	Ally
+Balthazar	Ally
+Garth Fitzgerald IV	Ally
+Ash	Ally
+Rufus Turner	Ally
+Mary Winchester	Human
+John Winchester	Human
+Mary Winchester	Hunter
+Mary Winchester	Ghost
+John Winchester	Hunter
+Linda Tran	Human
+Chuck Shurley	Human
+Chuck Shurley	Prophet
+Balthazar	Angel
+Madison	Werewolf
+Tasha	Werewolf
+Tasha	Human
+Madison	Human
+Jonah Greeley	Ghost
+Jonah Greeley	Human
+Molly McNamara	Ghost
+Molly McNamara	Human
+Maggie Stark	Human
+Maggie Stark	Witch
+Don Stark	Human
+Don Stark	Witch
+Garth Fitzgerald IV	Werewolf
+Garth Fitzgerald IV	Human
+Garth Fitzgerald IV	Hunter
+Ash	Human
+Ash	Hunter
+Rufus Turner	Human
+Rufus Turner	Hunter
+Jake Talley	Ally
+Cole Trenton	Ally
+Christian Campbell	Ally
+Bela Talbot	Ally
+Death	Ally
+Death	Four Horsemen
+Death	Reaper
+Death	Alpha
+Becky Rosen	Human
+Ben Braeden	Human
+Benny Lafitte	Human
+Benny Lafitte	Vampire
+Ed Zeddmore	Human
+Ed Zeddmore	Ghostfacer
+Ellen Harvelle	Human
+Ellen Harvelle	Hunter
+Frank Devereaux	Human
+Gwen Campbell	Hunter
+Gwen Campbell	Human
+Joshua	Angel
+Hannah	Angel
+Karen Singer	Human
+Karen Singer	Zombie
+Angela Mason	Human
+Angela Mason	Zombie
+Harry Spangler	Human
+Harry Spangler	Ghostfacer
+Becky Rosen	Ally
+Ben Braeden	Ally
+Benny Lafitte	Ally
+Ed Zeddmore	Ally
+Ellen Harvelle	Ally
+Frank Devereaux	Ally
+Gwen Campbell	Ally
+Joshua	Ally
+Hannah	Ally
+Karen Singer	Ally
+Harry Spangler	Ally
+Lenore	Ally
+Lisa Braeden	Ally
+Pamela Barnes	Ally
+Samandriel	Ally
+Samuel Colt	Ally
+Lenore	Vampire
+Lisa Braeden	Human
+Pamela Barnes	Human
+Samandriel	Angel
+Samuel Colt	Human
+Samuel Colt	Hunter

@@ -1,0 +1,13 @@
+hickory	brown
+zoey	orange
+jimmy	striped
+indy	orange
+indy	striped
+jimmy	grey
+frank	brown
+alex	brown
+alex	spotted
+jepha	spotted
+jepha	grey
+fred	brown
+fred	spotted
